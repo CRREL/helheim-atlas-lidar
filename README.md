@@ -1,2 +1,3 @@
-# helheim-atlas-lidar
-ATLAS Helheim LiDAR AWS Public Dataset
+# Helheim ATLAS LiDAR
+
+Description and info about CRREL's project
